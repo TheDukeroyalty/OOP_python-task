@@ -1,6 +1,4 @@
 Python OOP Assignment
-Kindly go through the assignment, and submit the GitHub repo
-
 
 Create a Python class named Person.
 The Person class should have the following attributes:
